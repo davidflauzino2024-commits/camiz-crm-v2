@@ -33,3 +33,14 @@ npm install
 
 # Rodar o projeto
 npx expo start
+
+## 📱 Prints do aplicativo
+
+### Tela de Login
+![Tela de Login](https://raw.githubusercontent.com/davidflauzino2024-commits/camiz-crm-v2/ba7df52ed089ae956269d35c30d2a3be2f90e71d/Login.png)
+
+### Tela de Cadastro
+![Tela de Cadastro](https://raw.githubusercontent.com/davidflauzino2024-commits/camiz-crm-v2/ba7df52ed089ae956269d35c30d2a3be2f90e71d/Cadastro%20de%20Leads.png)
+
+### Tela Cadastro no Servidor FB
+![Registro Firebase](https://raw.githubusercontent.com/davidflauzino2024-commits/camiz-crm-v2/ba7df52ed089ae956269d35c30d2a3be2f90e71d/Cadastro%20Salvo%20no%20Servidor%20Firebase.png)
